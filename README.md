@@ -1,5 +1,5 @@
 # 前端知识图谱+B站资源整合 V1.0版本
-## 克隆自技术胖https://gitee.com/jishupang/web_atlas.git
+### 克隆自技术胖https://gitee.com/jishupang/web_atlas.git
 | 项目持续维护中.......
 
 项目包含：脑图、png图片和md文档。方便你在不同场景下使用学习。
